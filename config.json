@@ -1,0 +1,6 @@
+{
+    "torbox_access_token": "fd4fd0ff-ff8f-fbef-f82f-8fb4f50ffe0f",
+    "download_dir": "/downloads/downloads",
+    "fake_download_dir": "/downloads",
+    "poll_interval_seconds": 15
+  }
