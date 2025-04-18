@@ -1,6 +1,8 @@
 # torbox-arr
 Proof of concept that allows torbox to be used as a usenet downloader in the arrs (currently only tested sonarr and lidarr)
 
+I am aware the code for this is a mess, so if anybody wants to fix anything with a pull request that would be greatly appreciated
+
 ## Installation
 1. Download this repository, and move the contents of it, which includes the json and py files to some random folder
 2. Install python 3, and these packages with pip or your system package manager: `pip install uvicorn aiofiles httpx fastapi`
